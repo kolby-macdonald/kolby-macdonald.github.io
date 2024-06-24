@@ -6,17 +6,17 @@ Welcome to the landing page of "security.context", my cybersecurity focused blog
 Hi, I'm Kolby. A good way to sum up the bulk of my life is: if it connects to the internet or has an engine... I'm interested in it. As a Cybersecurity Analyst, I take a lot of notes... like a lot of notes, particularly in markdown and it's always been an interest of mine to have a blog. I'll do my best not to let this fall into the dead projects graveyard. Some future goals for the site you're currently viewing is to develop out the frontend end with my own custom code, as well as *slowly* migrate my notes over.
 
 # Directory
-[.](README.md)
-├── Testdir0
-│   ├── File0.txt
-│   └── File1.docx
-├── Testdir1
-│   ├── Testdir2
-│   │   ├── image0.jpg
-│   │   └── image1.jpg
-│   └── Testdir3
-│       └── image2.jpg
-└── [Resources](Resources.md)
+[.](README.md)  
+├── Testdir0  
+│   ├── File0.txt  
+│   └── File1.docx  
+├── Testdir1  
+│   ├── Testdir2  
+│   │   ├── image0.jpg  
+│   │   └── image1.jpg  
+│   └── Testdir3  
+│       └── image2.jpg  
+└── [Resources](Resources.md)  
 
 #RTW
 
