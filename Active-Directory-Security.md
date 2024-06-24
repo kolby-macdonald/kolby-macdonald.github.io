@@ -3,6 +3,7 @@
 - [Credential Hunting](#Credential+Hunting)
 - [Bad Permissions Practices](#Bad+Permissions+Practices)
 - [Domain Controller Attacks](#Domain+Controller+Attacks)
+
 ## Kerberoasting & AS-REProasting
 
 ## Credential Hunting
