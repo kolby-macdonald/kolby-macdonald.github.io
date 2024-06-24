@@ -1,5 +1,5 @@
 # security.context
-### SITE UNDER CONSTRUCTION
+## SITE UNDER CONSTRUCTION
 Welcome to the landing page of "security.context", my cybersecurity focused blog. Don't forget your PPE because this site is under heavy development.
 
 ## About
