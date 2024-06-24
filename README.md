@@ -6,11 +6,10 @@ Welcome to the landing page of "security.context", yet another cybersecurity foc
 ├── [Change Log](Change-Log)<br>
 ├── Linux<br>
 ├── Windows<br>
-│   ├── [Active Directory Security](Active-Directory-Security)<br>
+│   ├── [Domain-Security](Domain-Security)<br>
 │   └── Event Codes<br>
 ├── Networking<br>
 ├── Software<br>
-├── Hardware<br>
-└── [Resources](Resources)<br><br>
+└── Hardware<br><br>
 <hr>
 #RTW
