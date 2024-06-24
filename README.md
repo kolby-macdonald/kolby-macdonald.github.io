@@ -13,7 +13,8 @@ Hi, I'm Kolby. A good way to sum up the bulk of my life is: if it connects to th
 │   │   ├── Bad Permission Practices<br>
 │   │   ├── Domain Controller Attacks <br>
 │   │   └── TBD<br>
-└── [Resources](Resources.md)<br><hr>
+└── [Resources](Resources.md)<br>
+<hr>
 #RTW
 
 
