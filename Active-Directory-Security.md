@@ -1,6 +1,9 @@
 # Active Directory Security
-
-## Kerberoasting & ASREProasting
+- [Kerberoasting & AS-REProasting](#Kerberoasting+&+AS-REProasting)
+- [Credential Hunting](#Credential+Hunting)
+- [Bad Permissions Practices](#Bad+Permissions+Practices)
+- [Domain Controller Attacks](#Domain+Controller+Attacks)
+## Kerberoasting & AS-REProasting
 
 ## Credential Hunting
 
