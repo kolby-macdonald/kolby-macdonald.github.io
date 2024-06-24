@@ -5,7 +5,7 @@ Welcome to the landing page of "security.context", yet another cybersecurity foc
 [.](README.md)<br>
 ├── Linux<br>
 ├── Windows<br>
-│   ├── [Active Directory Security](Active-Directory-Security.md)<br>
+│   ├── [Active Directory Security](Active-Directory-Security)<br>
 │   │   └── TBD<br>
 └── [Resources](Resources.md)<br>
 <br>
