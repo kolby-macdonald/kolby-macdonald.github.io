@@ -14,6 +14,7 @@ Hi, I'm Kolby. A good way to sum up the bulk of my life is: if it connects to th
 │   │   ├── [Domain Controller Attacks](Domain Controller Attacks)<br>
 │   │   └── TBD<br>
 └── [Resources](Resources.md)<br>
+<br>
 <hr>
 #RTW
 
