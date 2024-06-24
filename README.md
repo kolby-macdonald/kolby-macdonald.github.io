@@ -3,7 +3,7 @@ Welcome to the landing page of "security.context", yet another cybersecurity foc
 <hr><br>
 ## <u>Directory</u>
 [.](README.md)<br>
-├── [Change Log](Change+Log)<br>
+├── [Change Log](Change-Log)<br>
 ├── Linux<br>
 ├── Windows<br>
 │   ├── [Active Directory Security](Active-Directory-Security)<br>
