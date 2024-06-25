@@ -1,26 +1,26 @@
 # Domain Security
 - [Ticket Roasting](#Ticket+Roasting)
-	- [Kerberoasting]
-	- [AS-REProasting]
+	- [Kerberoasting](#Kerberoasting)
+	- [AS-REProasting](#AS-REProasting)
 - [Credential Hunting](#Credential+Hunting)
-	- [GPP Passwords]
-	- [GPO Permissions]
-	- [Network Shares]
-	- [Object Property Storage]
+	- [GPP Passwords](#GPP+Passwords)
+	- [GPO Permissions](#GPO+Permissions)
+	- [Network Shares](#Network+Shares)
+	- [Object Property Storage](#Object+Property+Storage)
 - [Bad Permissions Practices](#Bad+Permissions+Practices)
-	- [Constrained Delegation]
-	- [Unconstrained Delegation]
-	- [Print Spooler]
-	- [Access Control Lists]
+	- [Constrained Delegation](#Constrained+Delegation)
+	- [Unconstrained Delegation](#Unconstrained+Delegation)
+	- [Print Spooler](#Print+Spooler)
+	- [Access Control Lists](#Access+Control+Lists)
 - [Domain Controller Attacks](#Domain+Controller+Attacks)
-	- [DCSync]
-	- [Golden Ticket]<br>
+	- [DCSync](#DCSync)
+	- [Golden Ticket](#Golden+Ticket)<br><br>
 <hr>
 # Ticket Roasting
 #### Kerberoasting
 lorem<br>
 #### AS-REProasting
-lorem<br>
+lorem<br><br>
 <hr>
 
 
@@ -35,7 +35,7 @@ lorem<br>
 lorem<br>
 
 #### Object Property Storage
-lorem<br>
+lorem<br><br>
 <hr>
 
 
@@ -53,7 +53,7 @@ lorem<br>
 lorem<br>
 
 #### PKI - ESC1
-lorem<br>
+lorem<br><br>
 <hr>
 
 
@@ -63,7 +63,7 @@ lorem<br>
 lorem<br>
 
 #### Golden Ticket
-lorem<br>
-
+lorem<br><br>
 <hr>
+
 #RTW 
